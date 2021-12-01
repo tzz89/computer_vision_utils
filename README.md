@@ -2,6 +2,14 @@
 I will try my best to implement the script in both tensorflow and pytorch
 
 ## Augmentation
-1. Cutmix_mixup_regularization (Tensorflow (done), pytorch(inprogress) )
+1. Cutmix_mixup_regularization (Tensorflow-done, pytorch-inprogress)
     - https://colab.research.google.com/drive/1QdBswIIGqGHS7BMwiZPQrYUCxNvTFNxL?usp=sharing
 
+
+## Filtering
+1. Non-max-supression (Tensorflow-inprogress, pytorch-done)
+    - https://colab.research.google.com/drive/1pyeZhUazZ3nIjLNIRd2C2OZR4_SbgTsl?usp=sharing
+
+## Metrics
+1. Mean Average pricision (mAP) (Tensorflow-inprogress, pytorch -done)
+    - https://colab.research.google.com/drive/1LWK3r4-bqMmKI7wPiIZ2afIScKuAn8I6?usp=sharing
