@@ -13,3 +13,6 @@ I will try my best to implement the script in both tensorflow and pytorch
 ## Metrics
 1. Mean Average pricision (mAP) (Tensorflow-inprogress, pytorch -done)
     - https://colab.research.google.com/drive/1LWK3r4-bqMmKI7wPiIZ2afIScKuAn8I6?usp=sharing
+
+2. IOU (pytorch-done)
+    - https://colab.research.google.com/drive/1KGhxAjAIlgq35Cq_s-iShikHyipHZB4F?usp=sharing
